@@ -8,12 +8,12 @@ public class Asiento { //Clase Asiento
   int registro;
 
   //Metodos
-  void cambiarColor(String nuevoColor) {
+  void cambiarColor(String color) {
 
     //Verificamos que el color que se quiere cambiar este en los disponibles
     
     if (color == "amarillo" || color == "rojo" || color == "negro" || color == "blanco" || color == "verde") {
-      color = nuevoColor;
+      this.color = color;
     }
     
   }
