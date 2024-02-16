@@ -8,7 +8,7 @@ public class Asiento { //Clase Asiento
   int registro;
 
   //Metodos
-  void cambiaColor(String nuevoColor) {
+  void cambiarColor(String nuevoColor) {
 
     //Verificamos que el color que se quiere cambiar este en los disponibles
     
