@@ -1,4 +1,4 @@
-packge test;
+package test;
 
 public class Asiento { //Clase Asiento
 
